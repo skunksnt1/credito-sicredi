@@ -5,7 +5,7 @@ API REST para contratacao e consulta de operacoes de credito, desenvolvida como 
 **Empresa:** DB - Unidade AR
 **Responsavel:** Onisio Simoes Queiroz Junior
 **Telefone:** (79) 99648-7727
-
+**url para teste**  https://db.devlift.com.br/swagger/
 ---
 
 ## Tecnologias Utilizadas
