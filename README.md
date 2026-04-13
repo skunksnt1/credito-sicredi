@@ -225,6 +225,11 @@ quarkus.datasource.jdbc.url=jdbc:postgresql://seu_host:5432/credito_sicredi
 ./gradlew quarkusDev
 ```
 
+### Mock do servico de produtos (em outro terminal)
+
+```bash
+python mock-server.py
+```
 
 ### Acessar documentacao interativa
 
